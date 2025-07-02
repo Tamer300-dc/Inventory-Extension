@@ -1,4 +1,5 @@
 {
+  "manifest_version": 1,
   "id": "triple-tap-inventory",
   "name": "Triple Tap Inventory",
   "description": "Reveals token inventories with a triple-click. No setup—just install and play.",
