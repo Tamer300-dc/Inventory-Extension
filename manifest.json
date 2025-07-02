@@ -1,0 +1,10 @@
+{
+  "id": "triple-tap-inventory",
+  "name": "Triple Tap Inventory",
+  "description": "Reveals token inventories with a triple-click. No setup—just install and play.",
+  "version": "1.0.0",
+  "author": "Vedant",
+  "main": "main.js",
+  "styles": ["styles.css"],
+  "permissions": []
+}

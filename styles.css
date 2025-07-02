@@ -1,0 +1,16 @@
+.inventory-overlay {
+  position: fixed;
+  top: 80px;
+  left: 80px;
+  background: rgba(40,40,40,0.95);
+  color: #f0f0f0;
+  font-family: sans-serif;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px black;
+  z-index: 9999;
+  max-width: 300px;
+}
+.inventory-overlay i {
+  color: #aaa;
+}
