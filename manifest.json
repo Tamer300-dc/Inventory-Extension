@@ -1,8 +1,7 @@
 {
   "manifest_version": 1,
   "name": "Triple Tap Inventory",
-  "description": "Reveals token inventories with a triple-click. No setup—just install and play.",
+  "description": "Reveals token inventories with a triple-click.",
   "version": "1.0.0",
-  "author": "Vedant",
-  "styles": ["styles.css"]
+  "author": "Vedant"
 }
