@@ -1,10 +1,10 @@
 {
   "manifest_version": 1,
-  "name": "Inventory-Tamer",
+  "name": "Triple Tap Inventory",
   "description": "Reveals token inventories with a triple-click. No setup—just install and play.",
   "version": "1.0.0",
   "author": "Vedant",
-  "main": "main.js",
+  "scripts": ["main.js"],
   "styles": ["styles.css"],
   "permissions": []
 }
